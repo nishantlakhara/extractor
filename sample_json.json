@@ -1,0 +1,1075 @@
+{
+  "pdpData": {
+    "id": 11148764,
+    "name": "Huetrap Men Beige & Black Printed Round Neck T-shirt",
+    "mrp": 1099,
+    "manufacturer": "Huetrap Clothing Pvt Ltd, 595/2G-2J, Sri Lakshmi Nagar, Pitchampalayam Pudur, Tirupur 641603",
+    "countryOfOrigin": "India",
+    "colours": null,
+    "baseColour": "Beige",
+    "brand": {
+      "uidx": "23a1b916.6863.47ef.b459.c8f9caf452d7vHig3oV6af",
+      "name": "Huetrap",
+      "image": "http://assets.myntassets.com/assets/images/2017/6/20/11497951788816-26023-52c9yb.jpg",
+      "bio": "Love Affair With Colours and Fashion."
+    },
+    "media": {
+      "videos": [],
+      "albums": [
+        {
+          "name": "default",
+          "images": [
+            {
+              "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
+              "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
+              "host": null,
+              "imageURL": "http://assets.myntassets.com/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
+              "annotation": []
+            },
+            {
+              "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/e47f6e3e-9c44-44b7-b134-314cdde804c11576102551371-2.jpg",
+              "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/e47f6e3e-9c44-44b7-b134-314cdde804c11576102551371-2.jpg",
+              "host": null,
+              "imageURL": "http://assets.myntassets.com/assets/images/productimage/2019/12/12/e47f6e3e-9c44-44b7-b134-314cdde804c11576102551371-2.jpg",
+              "annotation": []
+            },
+            {
+              "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/6f3376d3-d5cd-4de4-8d04-66db80d5cef61576102551416-3.jpg",
+              "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/6f3376d3-d5cd-4de4-8d04-66db80d5cef61576102551416-3.jpg",
+              "host": null,
+              "imageURL": "http://assets.myntassets.com/assets/images/productimage/2019/12/12/6f3376d3-d5cd-4de4-8d04-66db80d5cef61576102551416-3.jpg",
+              "annotation": []
+            },
+            {
+              "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/3e3af82e-a465-46c0-8c52-19e27c063d611576102551460-4.jpg",
+              "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/3e3af82e-a465-46c0-8c52-19e27c063d611576102551460-4.jpg",
+              "host": null,
+              "imageURL": "http://assets.myntassets.com/assets/images/productimage/2019/12/12/3e3af82e-a465-46c0-8c52-19e27c063d611576102551460-4.jpg",
+              "annotation": []
+            },
+            {
+              "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/512f9dba-fdc5-4e84-a3bf-a430dc3889821576102551501-5.jpg",
+              "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/productimage/2019/12/12/512f9dba-fdc5-4e84-a3bf-a430dc3889821576102551501-5.jpg",
+              "host": null,
+              "imageURL": "http://assets.myntassets.com/assets/images/productimage/2019/12/12/512f9dba-fdc5-4e84-a3bf-a430dc3889821576102551501-5.jpg",
+              "annotation": []
+            }
+          ]
+        },
+        {
+          "name": "animatedImage",
+          "images": []
+        }
+      ]
+    },
+    "sbpEnabled": false,
+    "sizechart": {
+      "sizeChartUrl": null,
+      "sizeRepresentationUrl": "http://assets.myntassets.com/assets/images/sizechart/2016/12/14/11481690842463-Tshirts_men.png"
+    },
+    "sizeRecoLazy": {
+      "actionType": "lazy",
+      "action": "/product/11148764/size/recommendation",
+      "sizeProfileAction": "/user/size-profiles?gender=male&articleType=Tshirts"
+    },
+    "analytics": {
+      "articleType": "Tshirts",
+      "subCategory": "Topwear",
+      "masterCategory": "Apparel",
+      "gender": "Men",
+      "brand": "Huetrap",
+      "colourHexCode": null
+    },
+    "crossLinks": [
+      {
+        "title": "More Tshirts by Huetrap",
+        "url": "tshirts?f=Brand:Huetrap::Gender:men"
+      },
+      {
+        "title": "More Beige Tshirts",
+        "url": "tshirts?f=Color:Beige_e8e6cf::Gender:men"
+      },
+      {
+        "title": "More Tshirts",
+        "url": "tshirts?f=Gender:men"
+      }
+    ],
+    "relatedStyles": null,
+    "disclaimerTitle": "",
+    "productDetails": [
+      {
+        "type": null,
+        "content": null,
+        "title": "Product Details",
+        "description": "Beige and Black printed T-shirt, has a round neck, and short sleeves"
+      },
+      {
+        "type": null,
+        "content": null,
+        "title": "MATERIAL & CARE",
+        "description": "Material: 52% Cotton 48% Polyester<br>Machine Wash"
+      },
+      {
+        "type": null,
+        "content": null,
+        "title": "SIZE & FIT",
+        "description": "The model (height 6') is wearing a size M"
+      }
+    ],
+    "preOrder": null,
+    "sizeChartDisclaimerText": "Garment Measurements in",
+    "tags": null,
+    "articleAttributes": {
+      "Add-Ons": "NA",
+      "Body or Garment Size": "Garment Measurements in",
+      "Character": "NA",
+      "Closure": "NA",
+      "Fabric": "Cotton",
+      "Fabric 2": "Polyester",
+      "Fabric 3": "NA",
+      "Fit": "Regular Fit",
+      "Length": "Regular",
+      "Multipack Set": "Single",
+      "Neck": "Round Neck",
+      "Number of Pockets": "NA",
+      "Occasion": "Casual",
+      "Pattern": "Printed",
+      "Pattern Coverage": "Chest",
+      "Players": "NA",
+      "Print or Pattern Type": "Typography",
+      "Sleeve Length": "Short Sleeves",
+      "Sleeve Styling": "Regular Sleeves",
+      "Sport": "NA",
+      "Sport Team": "NA",
+      "Surface Styling": "NA",
+      "Technology": "NA",
+      "Wash Care": "Machine Wash",
+      "Weave Type": "Knitted"
+    },
+    "systemAttributes": [
+      {
+        "metaInfo": "H_ROS_MBU",
+        "systemAttributeValueEntry": {
+          "id": 50,
+          "systemAttributeEntry": {
+            "attributeCode": "CUSTOM_LABEL2",
+            "attributeName": "Custom_Label2",
+            "attributeType": "def",
+            "id": 134
+          },
+          "valueCode": "SA_FD_LABEL2",
+          "valueName": "SA_FD_Label2"
+        }
+      },
+      {
+        "metaInfo": "",
+        "systemAttributeValueEntry": {
+          "id": 194,
+          "systemAttributeEntry": {
+            "attributeCode": "SA_XT_BESTSELLER",
+            "attributeName": "SA_XT_BESTSELLER",
+            "attributeType": "def",
+            "id": 152
+          },
+          "valueCode": "BESTSELLER",
+          "valueName": "BESTSELLER"
+        }
+      },
+      {
+        "metaInfo": "",
+        "systemAttributeValueEntry": {
+          "id": 39,
+          "systemAttributeEntry": {
+            "attributeCode": "SA_XT_BEST_PRICE",
+            "attributeName": "SA_XT_Best_Price",
+            "attributeType": "def",
+            "id": 7
+          },
+          "valueCode": "PRICE_MAY_GO_UP",
+          "valueName": "Price may go up"
+        }
+      },
+      {
+        "metaInfo": "",
+        "systemAttributeValueEntry": {
+          "id": 196,
+          "systemAttributeEntry": {
+            "attributeCode": "SA_XT_PICWORTHY",
+            "attributeName": "SA_XT_PICWORTHY",
+            "attributeType": "def",
+            "id": 154
+          },
+          "valueCode": "PIC-WORTHY",
+          "valueName": "PIC-WORTHY"
+        }
+      }
+    ],
+    "ratings": {
+      "averageRating": 4.082156611039794,
+      "totalCount": 2337,
+      "isFastFashion": true,
+      "ratingInfo": [
+        {
+          "rating": 2,
+          "count": 91
+        },
+        {
+          "rating": 3,
+          "count": 246
+        },
+        {
+          "rating": 4,
+          "count": 552
+        },
+        {
+          "rating": 5,
+          "count": 1241
+        },
+        {
+          "rating": 1,
+          "count": 207
+        }
+      ],
+      "reviewInfo": {
+        "reviewsCount": "484",
+        "reviewsImageCount": "48",
+        "topReviews": [
+          {
+            "uidx": null,
+            "reviewId": "0ad69653-02ec-4511-9c95-f3e473731483",
+            "userName": "Jai Joshi",
+            "reviewText": "Loved it. Nice color and nice feel of the cloth.",
+            "userRating": 5,
+            "timestamp": "1582207362000",
+            "upvotes": "324",
+            "downvotes": "44",
+            "reviewImages": [
+              {
+                "reviewId": "0ad69653-02ec-4511-9c95-f3e473731483",
+                "imageUrl": "https://assets.myntassets.com/assets/images/2020/2/20/64b0f35e-3b13-41f5-b38e-f811ae57cfcb1582207360391-Snapchat-1443973849.jpg",
+                "aspectRatio": "1506:3107",
+                "resolution": "1506X3107"
+              }
+            ]
+          },
+          {
+            "uidx": null,
+            "reviewId": "648fb065-8e55-4c32-84e9-e6e5225cad1a",
+            "userName": "Preity",
+            "reviewText": "Good fitting...  Same as in a picture.  Great purchasing., Happy with the product.. ",
+            "userRating": 4,
+            "timestamp": "1601714125000",
+            "upvotes": "105",
+            "downvotes": "16",
+            "reviewImages": [
+              {
+                "reviewId": "648fb065-8e55-4c32-84e9-e6e5225cad1a",
+                "imageUrl": "https://assets.myntassets.com/assets/images/2020/10/3/af83868e-47c8-436f-b0b0-08f39cead3451601714124717-IMG-20201003-WA0005.jpg",
+                "aspectRatio": "479:640",
+                "resolution": "958X1280"
+              }
+            ]
+          },
+          {
+            "uidx": null,
+            "reviewId": "6589ad9c-ba1e-445b-a713-7260d98b4cc6",
+            "userName": "apurva Vora",
+            "reviewText": "T shirt is same as shown in images.\n\nT shirt quality, fitting is very good.\n\nValue for money.",
+            "userRating": 4,
+            "timestamp": "1614076464000",
+            "upvotes": "54",
+            "downvotes": "9",
+            "reviewImages": [
+              {
+                "reviewId": "6589ad9c-ba1e-445b-a713-7260d98b4cc6",
+                "imageUrl": "https://assets.myntassets.com/assets/images/2021/2/23/09e7da44-61b2-4f4d-af02-3d5a2acc25cd1614076464206-IMG_20210223_155520.jpg",
+                "aspectRatio": "20:9",
+                "resolution": "4000X1800"
+              },
+              {
+                "reviewId": "6589ad9c-ba1e-445b-a713-7260d98b4cc6",
+                "imageUrl": "https://assets.myntassets.com/assets/images/2021/2/23/065f3a98-d4cb-4083-bee7-9af6b23dbfb81614076464130-IMG_20210223_155525.jpg",
+                "aspectRatio": "20:9",
+                "resolution": "4000X1800"
+              }
+            ]
+          }
+        ],
+        "topImageReviews": [
+          {
+            "uidx": null,
+            "reviewId": "1227e879-40b9-46fc-bbb8-73f742b0c13e",
+            "userName": "Ravi Jyoti",
+            "reviewText": "The cloth quality is good. But the price should be lower. ",
+            "userRating": 3,
+            "timestamp": "1600756110000",
+            "upvotes": "38",
+            "downvotes": "7",
+            "reviewImages": null
+          },
+          {
+            "uidx": null,
+            "reviewId": "0ad69653-02ec-4511-9c95-f3e473731483",
+            "userName": "Jai Joshi",
+            "reviewText": "Loved it. Nice color and nice feel of the cloth.",
+            "userRating": 5,
+            "timestamp": "1582207362000",
+            "upvotes": "324",
+            "downvotes": "44",
+            "reviewImages": null
+          },
+          {
+            "uidx": null,
+            "reviewId": "32b6cd2a-8f14-4650-9aa9-73bbf958d352",
+            "userName": "Ratna Dey",
+            "reviewText": "Great product..price is reasonable ",
+            "userRating": 5,
+            "timestamp": "1601230079000",
+            "upvotes": "21",
+            "downvotes": "7",
+            "reviewImages": null
+          },
+          {
+            "uidx": null,
+            "reviewId": "5afe0b77-53b3-489b-98e3-af61cdd9b444",
+            "userName": "amio singha",
+            "reviewText": "Overall good ",
+            "userRating": 4,
+            "timestamp": "1616094143000",
+            "upvotes": "3",
+            "downvotes": "0",
+            "reviewImages": null
+          }
+        ],
+        "topImages": [
+          {
+            "reviewId": "1227e879-40b9-46fc-bbb8-73f742b0c13e",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2020/9/22/cba30ad6-e6ea-4a7e-90dd-77a8b48155271600756109965-IMG20200922115536.jpg",
+            "aspectRatio": "3:4",
+            "resolution": "3456X4608"
+          },
+          {
+            "reviewId": "0ad69653-02ec-4511-9c95-f3e473731483",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2020/2/20/64b0f35e-3b13-41f5-b38e-f811ae57cfcb1582207360391-Snapchat-1443973849.jpg",
+            "aspectRatio": "1506:3107",
+            "resolution": "1506X3107"
+          },
+          {
+            "reviewId": "32b6cd2a-8f14-4650-9aa9-73bbf958d352",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2020/9/27/462e69d6-61b0-43d1-bf5b-6803db4699f31601230068333-20200927_221101-01.jpeg",
+            "aspectRatio": "2448:3205",
+            "resolution": "2448X3205"
+          },
+          {
+            "reviewId": "5afe0b77-53b3-489b-98e3-af61cdd9b444",
+            "imageUrl": "https://assets.myntassets.com/assets/images/2021/3/19/cae594ac-d27a-4c20-b2fc-f17cb2c745441616094142582-temp_photo.jpg",
+            "aspectRatio": "187:250",
+            "resolution": "2992X4000"
+          }
+        ]
+      },
+      "aggregatedQuestionsAndAnswers": [
+        {
+          "question": {
+            "text_for_pdp": "Fit"
+          },
+          "total_count_for_question": 1174,
+          "answers_with_count": [
+            {
+              "option": {
+                "text_for_pdp": "Too Tight"
+              },
+              "count": 27,
+              "percentage": 2,
+              "is_highlighted": false
+            },
+            {
+              "option": {
+                "text_for_pdp": "Somewhat Tight"
+              },
+              "count": 55,
+              "percentage": 5,
+              "is_highlighted": false
+            },
+            {
+              "option": {
+                "text_for_pdp": "As Expected"
+              },
+              "count": 925,
+              "percentage": 79,
+              "is_highlighted": true
+            },
+            {
+              "option": {
+                "text_for_pdp": "Somewhat Loose"
+              },
+              "count": 120,
+              "percentage": 10,
+              "is_highlighted": false
+            },
+            {
+              "option": {
+                "text_for_pdp": "Too Loose"
+              },
+              "count": 47,
+              "percentage": 4,
+              "is_highlighted": false
+            }
+          ]
+        },
+        {
+          "question": {
+            "text_for_pdp": "Length"
+          },
+          "total_count_for_question": 1048,
+          "answers_with_count": [
+            {
+              "option": {
+                "text_for_pdp": "Too Short"
+              },
+              "count": 19,
+              "percentage": 2,
+              "is_highlighted": false
+            },
+            {
+              "option": {
+                "text_for_pdp": "Somewhat Short"
+              },
+              "count": 72,
+              "percentage": 7,
+              "is_highlighted": false
+            },
+            {
+              "option": {
+                "text_for_pdp": "As Expected"
+              },
+              "count": 881,
+              "percentage": 84,
+              "is_highlighted": true
+            },
+            {
+              "option": {
+                "text_for_pdp": "Somewhat Long"
+              },
+              "count": 59,
+              "percentage": 6,
+              "is_highlighted": false
+            },
+            {
+              "option": {
+                "text_for_pdp": "Too Long"
+              },
+              "count": 17,
+              "percentage": 1,
+              "is_highlighted": false
+            }
+          ]
+        }
+      ],
+      "isVirtualBundle": false
+    },
+    "urgency": [
+      {
+        "value": "2598",
+        "type": "PURCHASED",
+        "ptile": 99.99865671854812
+      },
+      {
+        "value": "17766",
+        "type": "CART",
+        "ptile": 99.99916044909257
+      },
+      {
+        "value": "52647",
+        "type": "WISHLIST",
+        "ptile": 99.99891731384623
+      },
+      {
+        "value": "6597",
+        "type": "PDP",
+        "ptile": 99.99107004064786
+      }
+    ],
+    "catalogAttributes": {
+      "catalogDate": "1576162429000",
+      "season": "summer",
+      "year": "2020"
+    },
+    "productContentGroupEntries": [
+      {
+        "title": "",
+        "type": "TABULAR",
+        "attributes": [
+          {
+            "attributeName": "Fabric",
+            "attributeType": "LIST",
+            "value": "Cotton",
+            "imageUrl": "",
+            "attributeValueDesc": ""
+          }
+        ]
+      },
+      {
+        "title": "",
+        "type": "DETAILS",
+        "attributes": [
+          {
+            "attributeName": "Product Details",
+            "attributeType": "STRING",
+            "value": "Beige and Black printed T-shirt, has a round neck, and short sleeves",
+            "imageUrl": "",
+            "attributeValueDesc": ""
+          },
+          {
+            "attributeName": "Size & Fit",
+            "attributeType": "STRING",
+            "value": "The model (height 6') is wearing a size M",
+            "imageUrl": "",
+            "attributeValueDesc": ""
+          },
+          {
+            "attributeName": "Material & Care",
+            "attributeType": "STRING",
+            "value": "Material: 52% Cotton 48% Polyester<br>Machine Wash",
+            "imageUrl": "",
+            "attributeValueDesc": ""
+          },
+          {
+            "attributeName": "Style Note",
+            "attributeType": "STRING",
+            "value": "Made of cotton, you'll love the high-quality fit and feel of this Huetrap tee.  This beige piece can be teamed with cuffed chinos and canvas shoes when you're meeting the guys for drinks.",
+            "imageUrl": "",
+            "attributeValueDesc": ""
+          }
+        ]
+      }
+    ],
+    "shoppableLooks": null,
+    "descriptors": [
+      {
+        "title": "description",
+        "description": "Beige and Black printed T-shirt, has a round neck, and short sleeves"
+      },
+      {
+        "title": "size_fit_desc",
+        "description": "The model (height 6') is wearing a size M"
+      },
+      {
+        "title": "style_note",
+        "description": "Made of cotton, you'll love the high-quality fit and feel of this Huetrap tee.  This beige piece can be teamed with cuffed chinos and canvas shoes when you're meeting the guys for drinks."
+      },
+      {
+        "title": "materials_care_desc",
+        "description": "Material: 52% Cotton 48% Polyester<br>Machine Wash"
+      }
+    ],
+    "flags": {
+      "isExchangeable": true,
+      "isReturnable": true,
+      "openBoxPickupEnabled": true,
+      "tryAndBuyEnabled": true,
+      "isLarge": false,
+      "isHazmat": true,
+      "isFragile": false,
+      "isJewellery": false,
+      "outOfStock": false,
+      "codEnabled": true,
+      "globalStore": false,
+      "loyaltyPointsEnabled": false,
+      "emiEnabled": true,
+      "chatEnabled": false,
+      "measurementModeEnabled": false,
+      "sampleModeEnabled": false,
+      "disableBuyButton": false,
+      "isExpirable": false
+    },
+    "earlyBirdOffer": null,
+    "serviceability": {
+      "launchDate": "",
+      "returnPeriod": 30,
+      "descriptors": [
+        "Pay on delivery might be available",
+        "Easy 30 days returns and exchanges",
+        "Try & Buy might be available"
+      ],
+      "procurementTimeInDays": {
+        "10798": 3
+      }
+    },
+    "buyButtonSellerOrder": [
+      {
+        "skuId": 38497432,
+        "sellerPartnerId": 10798
+      },
+      {
+        "skuId": 38497430,
+        "sellerPartnerId": 10798
+      },
+      {
+        "skuId": 38497434,
+        "sellerPartnerId": 10798
+      },
+      {
+        "skuId": 38497438,
+        "sellerPartnerId": 10798
+      },
+      {
+        "skuId": 38497436,
+        "sellerPartnerId": 10798
+      }
+    ],
+    "sellers": [
+      {
+        "sellerPartnerId": 10798,
+        "sellerName": "HUETRAP CLOTHING PRIVATE LIMITED",
+        "displayName": "HUETRAP CLOTHING PRIVATE LIMITED",
+        "sellerAddress": {
+          "address": "10,12, Kumara Nagar South2nd StreetTirupur , Tamilnadu - 641603",
+          "city": "Tirupur",
+          "state": "Tamilnadu",
+          "pincode": "641603",
+          "country": "India"
+        }
+      }
+    ],
+    "sizes": [
+      {
+        "skuId": 38497430,
+        "styleId": 11148764,
+        "action": "/product/11148764/related/S?co=1",
+        "label": "S",
+        "available": true,
+        "sizeType": null,
+        "originalStyle": true,
+        "measurements": [
+          {
+            "type": "Garment Measurement",
+            "name": "Chest",
+            "value": "38.52",
+            "minValue": "38.52",
+            "maxValue": "38.52",
+            "unit": "Inches",
+            "displayText": "38.52in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Front Length",
+            "value": "26.73",
+            "minValue": "26.73",
+            "maxValue": "26.73",
+            "unit": "Inches",
+            "displayText": "26.73in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Across Shoulder",
+            "value": "16.51",
+            "minValue": "16.51",
+            "maxValue": "16.51",
+            "unit": "Inches",
+            "displayText": "16.51in"
+          }
+        ],
+        "allSizesList": [
+          {
+            "scaleCode": "myntra_size",
+            "sizeValue": "S",
+            "size": "Size",
+            "order": 1,
+            "prefix": ""
+          }
+        ],
+        "sizeSellerData": [
+          {
+            "mrp": 1099,
+            "sellerPartnerId": 10798,
+            "availableCount": 1936,
+            "sellableInventoryCount": 1936,
+            "warehouses": [
+              "14725"
+            ],
+            "supplyType": "ON_HAND",
+            "discountId": "11148764:46610280",
+            "discountedPrice": 373,
+            "countryOfOrigin": [
+              "India"
+            ],
+            "manufacturerInfo": "Huetrap  Clothing  Pvt  Ltd,  595/2G-2J,  Sri  Lakshmi  Nagar,  Pitchampalayam  Pudur,  Tirupur  641603",
+            "importerInfo": "",
+            "packerInfo": "",
+            "procurementTimeInDays": 3,
+            "expiryDate": "0"
+          }
+        ],
+        "kidsSizeMeasurements": null
+      },
+      {
+        "skuId": 38497432,
+        "styleId": 11148764,
+        "action": "/product/11148764/related/M?co=1",
+        "label": "M",
+        "available": true,
+        "sizeType": null,
+        "originalStyle": true,
+        "measurements": [
+          {
+            "type": "Garment Measurement",
+            "name": "Chest",
+            "value": "40.49",
+            "minValue": "40.49",
+            "maxValue": "40.49",
+            "unit": "Inches",
+            "displayText": "40.49in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Front Length",
+            "value": "27.52",
+            "minValue": "27.52",
+            "maxValue": "27.52",
+            "unit": "Inches",
+            "displayText": "27.52in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Across Shoulder",
+            "value": "17.1",
+            "minValue": "17.1",
+            "maxValue": "17.1",
+            "unit": "Inches",
+            "displayText": "17.1in"
+          }
+        ],
+        "allSizesList": [
+          {
+            "scaleCode": "myntra_size",
+            "sizeValue": "M",
+            "size": "Size",
+            "order": 1,
+            "prefix": ""
+          }
+        ],
+        "sizeSellerData": [
+          {
+            "mrp": 1099,
+            "sellerPartnerId": 10798,
+            "availableCount": 2926,
+            "sellableInventoryCount": 2926,
+            "warehouses": [
+              "14725"
+            ],
+            "supplyType": "ON_HAND",
+            "discountId": "11148764:46610280",
+            "discountedPrice": 373,
+            "countryOfOrigin": [
+              "India"
+            ],
+            "manufacturerInfo": "Huetrap  Clothing  Pvt  Ltd,  595/2G-2J,  Sri  Lakshmi  Nagar,  Pitchampalayam  Pudur,  Tirupur  641603",
+            "importerInfo": "",
+            "packerInfo": "",
+            "procurementTimeInDays": 3,
+            "expiryDate": "0"
+          }
+        ],
+        "kidsSizeMeasurements": null
+      },
+      {
+        "skuId": 38497434,
+        "styleId": 11148764,
+        "action": "/product/11148764/related/L?co=1",
+        "label": "L",
+        "available": true,
+        "sizeType": null,
+        "originalStyle": true,
+        "measurements": [
+          {
+            "type": "Garment Measurement",
+            "name": "Chest",
+            "value": "42.45",
+            "minValue": "42.45",
+            "maxValue": "42.45",
+            "unit": "Inches",
+            "displayText": "42.45in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Front Length",
+            "value": "28.3",
+            "minValue": "28.3",
+            "maxValue": "28.3",
+            "unit": "Inches",
+            "displayText": "28.3in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Across Shoulder",
+            "value": "17.75",
+            "minValue": "17.75",
+            "maxValue": "17.75",
+            "unit": "Inches",
+            "displayText": "17.75in"
+          }
+        ],
+        "allSizesList": [
+          {
+            "scaleCode": "myntra_size",
+            "sizeValue": "L",
+            "size": "Size",
+            "order": 1,
+            "prefix": ""
+          }
+        ],
+        "sizeSellerData": [
+          {
+            "mrp": 1099,
+            "sellerPartnerId": 10798,
+            "availableCount": 2890,
+            "sellableInventoryCount": 2890,
+            "warehouses": [
+              "14725"
+            ],
+            "supplyType": "ON_HAND",
+            "discountId": "11148764:46610280",
+            "discountedPrice": 373,
+            "countryOfOrigin": [
+              "India"
+            ],
+            "manufacturerInfo": "Huetrap  Clothing  Pvt  Ltd,  595/2G-2J,  Sri  Lakshmi  Nagar,  Pitchampalayam  Pudur,  Tirupur  641603",
+            "importerInfo": "",
+            "packerInfo": "",
+            "procurementTimeInDays": 3,
+            "expiryDate": "0"
+          }
+        ],
+        "kidsSizeMeasurements": null
+      },
+      {
+        "skuId": 38497436,
+        "styleId": 11148764,
+        "action": "/product/11148764/related/XL?co=1",
+        "label": "XL",
+        "available": true,
+        "sizeType": null,
+        "originalStyle": true,
+        "measurements": [
+          {
+            "type": "Garment Measurement",
+            "name": "Chest",
+            "value": "44.42",
+            "minValue": "44.42",
+            "maxValue": "44.42",
+            "unit": "Inches",
+            "displayText": "44.42in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Front Length",
+            "value": "29.09",
+            "minValue": "29.09",
+            "maxValue": "29.09",
+            "unit": "Inches",
+            "displayText": "29.09in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Across Shoulder",
+            "value": "18.28",
+            "minValue": "18.28",
+            "maxValue": "18.28",
+            "unit": "Inches",
+            "displayText": "18.28in"
+          }
+        ],
+        "allSizesList": [
+          {
+            "scaleCode": "myntra_size",
+            "sizeValue": "XL",
+            "size": "Size",
+            "order": 1,
+            "prefix": ""
+          }
+        ],
+        "sizeSellerData": [
+          {
+            "mrp": 1099,
+            "sellerPartnerId": 10798,
+            "availableCount": 2042,
+            "sellableInventoryCount": 2042,
+            "warehouses": [
+              "14725"
+            ],
+            "supplyType": "ON_HAND",
+            "discountId": "11148764:46610280",
+            "discountedPrice": 373,
+            "countryOfOrigin": [
+              "India"
+            ],
+            "manufacturerInfo": "Huetrap  Clothing  Pvt  Ltd,  595/2G-2J,  Sri  Lakshmi  Nagar,  Pitchampalayam  Pudur,  Tirupur  641603",
+            "importerInfo": "",
+            "packerInfo": "",
+            "procurementTimeInDays": 3,
+            "expiryDate": "0"
+          }
+        ],
+        "kidsSizeMeasurements": null
+      },
+      {
+        "skuId": 38497438,
+        "styleId": 11148764,
+        "action": "/product/11148764/related/XXL?co=1",
+        "label": "XXL",
+        "available": true,
+        "sizeType": null,
+        "originalStyle": true,
+        "measurements": [
+          {
+            "type": "Garment Measurement",
+            "name": "Chest",
+            "value": "46.38",
+            "minValue": "46.38",
+            "maxValue": "46.38",
+            "unit": "Inches",
+            "displayText": "46.38in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Front Length",
+            "value": "29.87",
+            "minValue": "29.87",
+            "maxValue": "29.87",
+            "unit": "Inches",
+            "displayText": "29.87in"
+          },
+          {
+            "type": "Garment Measurement",
+            "name": "Across Shoulder",
+            "value": "18.87",
+            "minValue": "18.87",
+            "maxValue": "18.87",
+            "unit": "Inches",
+            "displayText": "18.87in"
+          }
+        ],
+        "allSizesList": [
+          {
+            "scaleCode": "myntra_size",
+            "sizeValue": "XXL",
+            "size": "Size",
+            "order": 1,
+            "prefix": ""
+          }
+        ],
+        "sizeSellerData": [
+          {
+            "mrp": 1099,
+            "sellerPartnerId": 10798,
+            "availableCount": 1883,
+            "sellableInventoryCount": 1883,
+            "warehouses": [
+              "14725"
+            ],
+            "supplyType": "ON_HAND",
+            "discountId": "11148764:46610280",
+            "discountedPrice": 373,
+            "countryOfOrigin": [
+              "India"
+            ],
+            "manufacturerInfo": "Huetrap  Clothing  Pvt  Ltd,  595/2G-2J,  Sri  Lakshmi  Nagar,  Pitchampalayam  Pudur,  Tirupur  641603",
+            "importerInfo": "",
+            "packerInfo": "",
+            "procurementTimeInDays": 3,
+            "expiryDate": "0"
+          }
+        ],
+        "kidsSizeMeasurements": null
+      }
+    ],
+    "discounts": [
+      {
+        "type": 1,
+        "freeItem": false,
+        "label": "(66% OFF)",
+        "discountText": "",
+        "timerStart": "0",
+        "timerEnd": "1625768940",
+        "discountPercent": 66,
+        "offer": "",
+        "discountId": "11148764:46610280",
+        "heading": null,
+        "description": null,
+        "link": null,
+        "freeItemImage": null
+      }
+    ],
+    "offers": [
+      {
+        "type": "BANK",
+        "title": "10% Instant Discount on HDFC Credit Cards",
+        "description": "Min spend Rs 3,000; Max discount Rs 1,000. TCA",
+        "action": "https://www.myntra.com/shop/hdfc-offer20",
+        "image": null
+      },
+      {
+        "type": "BANK",
+        "title": "10% Instant Discount on HDFC Debit Cards",
+        "description": "Min spend Rs 3,500; Max discount Rs 500. TCA",
+        "action": "https://www.myntra.com/shop/hdfc-offer20",
+        "image": null
+      },
+      {
+        "type": "BANK",
+        "title": "12% Instant Discount on HDFC Credit Cards EMI transactions",
+        "description": "Min spend Rs 3,500; Max discount Rs 1,500. TCA",
+        "action": "https://www.myntra.com/shop/hdfc-offer20",
+        "image": null
+      },
+      {
+        "type": "BANK",
+        "title": "12% Instant Discount on HDFC Debit Cards EMI transactions",
+        "description": "Min spend Rs 6,000; Max discount Rs 1,500. TCA",
+        "action": "https://www.myntra.com/shop/hdfc-offer20",
+        "image": null
+      },
+      {
+        "type": "EMI",
+        "title": "EMI option available",
+        "description": "",
+        "action": "/faqs",
+        "image": null
+      }
+    ],
+    "bundledSkus": null,
+    "richPdp": null,
+    "attributeTagsPriorityList": [],
+    "certificate": null,
+    "studio": null,
+    "selectedSeller": {
+      "sellerPartnerId": 10798,
+      "sellerName": "HUETRAP CLOTHING PRIVATE LIMITED",
+      "discountedPrice": 373,
+      "discount": {
+        "type": 1,
+        "freeItem": false,
+        "label": "(66% OFF)",
+        "discountText": "",
+        "timerStart": "0",
+        "timerEnd": "1625768940",
+        "discountPercent": 66,
+        "offer": "",
+        "discountId": "11148764:46610280",
+        "heading": null,
+        "description": null,
+        "link": null,
+        "freeItemImage": null
+      },
+      "customSeller": false
+    },
+    "price": {
+      "mrp": 1099,
+      "discounted": 373
+    },
+    "landingPageUrl": "tshirts/huetrap/huetrap-men-beige--black-printed-round-neck-t-shirt/11148764/buy"
+  },
+  "pageName": "Pdp",
+  "atsa": []
+}

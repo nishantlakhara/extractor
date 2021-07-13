@@ -1,3 +1,5 @@
 pip install browsercookie
 pip3 install pycookiecheat
 pip3 install browser-cookie3
+pip install pywhatkit
+pip install selenium

@@ -29,7 +29,8 @@ def sendTelegramMessages(dataframe: DataFrame):
 
     for index, row in dataframe.iterrows():
         rating = math.ceil(row['rating']*10)/10
-        if (rating > 4.5):
+        price = row['price']
+        if (rating > 4.5 and price <= 1000):
             #print(row['searchImage'], row['landingPageUrl'])
             #print(row['productName'], row['searchImage'], row['landingPageUrl'])
             image_url = row['searchImage']
@@ -45,7 +46,7 @@ def sendTelegramMessages(dataframe: DataFrame):
             print(send_message_url)
             requests.get(send_photo_url)
             requests.get(send_message_url)
-            time.sleep(10)
+            time.sleep(100)
 
 # Index(['landingPageUrl', 'loyaltyPointsEnabled', 'adId', 'isPLA', 'productId',
 #        'product', 'productName', 'rating', 'ratingCount', 'isFastFashion',
@@ -69,11 +70,29 @@ def sendTelegramMessages(dataframe: DataFrame):
 def main():
     logging.basicConfig(level=logging.DEBUG)
 
-    urls = ["https://www.myntra.com/flat-80-sale",
-            "https://www.myntra.com/flat-80-sale?p=2&plaEnabled=false",
-            "https://www.myntra.com/flat-80-sale?p=3&plaEnabled=false",
-            "https://www.myntra.com/flat-80-sale?p=4&plaEnabled=false",
-            "https://www.myntra.com/flat-80-sale?p=5&plaEnabled=false"]
+    urls = ["https://www.myntra.com/flat-70-sale",
+            "https://www.myntra.com/flat-70-sale?p=2&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=3&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=4&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=5&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=6&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=7&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=8&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=9&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=10&plaEnabled=false",
+            "https://www.myntra.com/flat-70-sale?p=11&plaEnabled=false",
+            ]
+
+    # urls = ["https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=2&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=3&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=4&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=5&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=6&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=7&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=8&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=9&plaEnabled=false",
+    #         "https://www.myntra.com/men-bags-backpacks?f=Categories%3ABackpacks&p=10&plaEnabled=false",]
 
     for url_main in urls:
         run_myntra_urls(url_main)
